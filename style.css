@@ -177,6 +177,9 @@ img {
   box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.08);
   border-radius: 12px;
 }
+.chair:hover {
+  box-shadow: 0px 20px 30px 10px rgba(0, 0, 0, 0.2);
+}
 .chair img {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
